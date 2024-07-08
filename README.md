@@ -1,16 +1,16 @@
-# okapp
+# OKapp / OKcoffee ~ by Kelvien
 
-A new Flutter project.
+~ Front-end only, back-end still on progress ~
 
-## Getting Started
+- A Flutter android app for coffee shop.
+- Feel free to use as your collage project.
+- No attribution required.
+- Make sure all the package are updated by running "flutter pub --upgrade" in your terminal.
 
-This project is a starting point for a Flutter application.
+# UI Preview
 
-A few resources to get you started if this is your first Flutter project:
+![Home](https://github.com/Kelvien416/OKcoffee/assets/171021068/11aa4666-1509-4303-9d1e-04cf64c1acb7)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Detail](https://github.com/Kelvien416/OKcoffee/assets/171021068/2d58587e-ec6d-419d-9e12-4efa7bfc7bf9)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![cart](https://github.com/Kelvien416/OKcoffee/assets/171021068/3477f7db-746a-4055-b64e-9989dce62fc1)
